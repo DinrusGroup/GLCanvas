@@ -1,2 +1,2 @@
 # GLCanvas
-A basic canvas for OpenGL primitives
+Базовый холст для примитивов OpenGL.
